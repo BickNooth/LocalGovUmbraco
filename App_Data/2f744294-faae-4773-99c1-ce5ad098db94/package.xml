@@ -1,0 +1,2502 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>editor.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>editor.css</orgName>
+    </file>
+    <file>
+      <guid>help.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>help.css</orgName>
+    </file>
+    <file>
+      <guid>layout-alerts.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-alerts.css</orgName>
+    </file>
+    <file>
+      <guid>layout-atoz.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-atoz.css</orgName>
+    </file>
+    <file>
+      <guid>layout-breadcrumb.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-breadcrumb.css</orgName>
+    </file>
+    <file>
+      <guid>layout-cookie.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-cookie.css</orgName>
+    </file>
+    <file>
+      <guid>layout-core.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-core.css</orgName>
+    </file>
+    <file>
+      <guid>layout-footer.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-footer.css</orgName>
+    </file>
+    <file>
+      <guid>layout-gateway.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-gateway.css</orgName>
+    </file>
+    <file>
+      <guid>layout-homepage.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-homepage.css</orgName>
+    </file>
+    <file>
+      <guid>layout-listings.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-listings.css</orgName>
+    </file>
+    <file>
+      <guid>layout-nav.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-nav.css</orgName>
+    </file>
+    <file>
+      <guid>layout-page.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout-page.css</orgName>
+    </file>
+    <file>
+      <guid>layout.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>layout.css</orgName>
+    </file>
+    <file>
+      <guid>lgsk-default.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>lgsk-default.css</orgName>
+    </file>
+    <file>
+      <guid>bootstrap-theme.css</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap-theme.css</orgName>
+    </file>
+    <file>
+      <guid>bootstrap-theme.css.map</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap-theme.css.map</orgName>
+    </file>
+    <file>
+      <guid>bootstrap-theme.min.css</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap-theme.min.css</orgName>
+    </file>
+    <file>
+      <guid>bootstrap-theme.min.css.map</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap-theme.min.css.map</orgName>
+    </file>
+    <file>
+      <guid>bootstrap.css</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap.css</orgName>
+    </file>
+    <file>
+      <guid>bootstrap.css.map</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap.css.map</orgName>
+    </file>
+    <file>
+      <guid>bootstrap.min.css</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap.min.css</orgName>
+    </file>
+    <file>
+      <guid>bootstrap.min.css.map</guid>
+      <orgPath>/Content</orgPath>
+      <orgName>bootstrap.min.css.map</orgName>
+    </file>
+    <file>
+      <guid>AtoZCacheHelper.cs</guid>
+      <orgPath>/App_Code/lgsk</orgPath>
+      <orgName>AtoZCacheHelper.cs</orgName>
+    </file>
+    <file>
+      <guid>ContactFormSurfaceController.cs</guid>
+      <orgPath>/App_Code/lgsk</orgPath>
+      <orgName>ContactFormSurfaceController.cs</orgName>
+    </file>
+    <file>
+      <guid>SiteSettings.cs</guid>
+      <orgPath>/App_Code/lgsk</orgPath>
+      <orgName>SiteSettings.cs</orgName>
+    </file>
+    <file>
+      <guid>StarterKitInstall.ascx</guid>
+      <orgPath>/App_Plugins/lgsk</orgPath>
+      <orgName>StarterKitInstall.ascx</orgName>
+    </file>
+    <file>
+      <guid>agm.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>agm.js</orgName>
+    </file>
+    <file>
+      <guid>angular-google-maps.2.1.0.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>angular-google-maps.2.1.0.js</orgName>
+    </file>
+    <file>
+      <guid>angular-google-maps.2.1.0.min.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>angular-google-maps.2.1.0.min.js</orgName>
+    </file>
+    <file>
+      <guid>angular-google-maps.2.3.3.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>angular-google-maps.2.3.3.js</orgName>
+    </file>
+    <file>
+      <guid>angular-google-maps.2.3.3.min.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>angular-google-maps.2.3.3.min.js</orgName>
+    </file>
+    <file>
+      <guid>angular-simple-logger.min.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>angular-simple-logger.min.js</orgName>
+    </file>
+    <file>
+      <guid>config.coordinatesbehavour.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>config.coordinatesbehavour.html</orgName>
+    </file>
+    <file>
+      <guid>config.defaultlocation.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>config.defaultlocation.html</orgName>
+    </file>
+    <file>
+      <guid>config.definition.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>config.definition.html</orgName>
+    </file>
+    <file>
+      <guid>config.format.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>config.format.html</orgName>
+    </file>
+    <file>
+      <guid>config.icon.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>config.icon.html</orgName>
+    </file>
+    <file>
+      <guid>iconanchorpoint.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>iconanchorpoint.html</orgName>
+    </file>
+    <file>
+      <guid>iconsize.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>iconsize.html</orgName>
+    </file>
+    <file>
+      <guid>iconurl.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>iconurl.html</orgName>
+    </file>
+    <file>
+      <guid>map-example.png</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>map-example.png</orgName>
+    </file>
+    <file>
+      <guid>underscore-min.js</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>underscore-min.js</orgName>
+    </file>
+    <file>
+      <guid>view.css</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>view.css</orgName>
+    </file>
+    <file>
+      <guid>view.html</guid>
+      <orgPath>/App_Plugins/AngularGoogleMaps/2.0.3</orgPath>
+      <orgName>view.html</orgName>
+    </file>
+    <file>
+      <guid>OpeningSoon.Controller.js</guid>
+      <orgPath>/App_Plugins/OpeningSoon</orgPath>
+      <orgName>OpeningSoon.Controller.js</orgName>
+    </file>
+    <file>
+      <guid>openingsoon.css</guid>
+      <orgPath>/App_Plugins/OpeningSoon</orgPath>
+      <orgName>openingsoon.css</orgName>
+    </file>
+    <file>
+      <guid>openingsoon.html</guid>
+      <orgPath>/App_Plugins/OpeningSoon</orgPath>
+      <orgName>openingsoon.html</orgName>
+    </file>
+    <file>
+      <guid>package.manifest</guid>
+      <orgPath>/App_Plugins/OpeningSoon</orgPath>
+      <orgName>package.manifest</orgName>
+    </file>
+    <file>
+      <guid>da-DK.xml</guid>
+      <orgPath>/App_Plugins/OpeningSoon/Lang</orgPath>
+      <orgName>da-DK.xml</orgName>
+    </file>
+    <file>
+      <guid>da.xml</guid>
+      <orgPath>/App_Plugins/OpeningSoon/Lang</orgPath>
+      <orgName>da.xml</orgName>
+    </file>
+    <file>
+      <guid>en-GB.xml</guid>
+      <orgPath>/App_Plugins/OpeningSoon/Lang</orgPath>
+      <orgName>en-GB.xml</orgName>
+    </file>
+    <file>
+      <guid>en-US.xml</guid>
+      <orgPath>/App_Plugins/OpeningSoon/Lang</orgPath>
+      <orgName>en-US.xml</orgName>
+    </file>
+    <file>
+      <guid>en.xml</guid>
+      <orgPath>/App_Plugins/OpeningSoon/Lang</orgPath>
+      <orgName>en.xml</orgName>
+    </file>
+    <file>
+      <guid>en_us.xml</guid>
+      <orgPath>/App_Plugins/OpeningSoon/Lang</orgPath>
+      <orgName>en_us.xml</orgName>
+    </file>
+    <file>
+      <guid>jquery.timepicker.css</guid>
+      <orgPath>/App_Plugins/OpeningSoon/scripts</orgPath>
+      <orgName>jquery.timepicker.css</orgName>
+    </file>
+    <file>
+      <guid>jquery.timepicker.js</guid>
+      <orgPath>/App_Plugins/OpeningSoon/scripts</orgPath>
+      <orgName>jquery.timepicker.js</orgName>
+    </file>
+    <file>
+      <guid>jquery.timepicker.min.js</guid>
+      <orgPath>/App_Plugins/OpeningSoon/scripts</orgPath>
+      <orgName>jquery.timepicker.min.js</orgName>
+    </file>
+    <file>
+      <guid>27a23e67-4675-4f0f-a748-add12422fc68_package.manifest</guid>
+      <orgPath>/App_Plugins/StyledTextbox</orgPath>
+      <orgName>package.manifest</orgName>
+    </file>
+    <file>
+      <guid>styledText.css</guid>
+      <orgPath>/App_Plugins/StyledTextbox/css</orgPath>
+      <orgName>styledText.css</orgName>
+    </file>
+    <file>
+      <guid>styledText.html</guid>
+      <orgPath>/App_Plugins/StyledTextbox/html</orgPath>
+      <orgName>styledText.html</orgName>
+    </file>
+    <file>
+      <guid>styledTextController.js</guid>
+      <orgPath>/App_Plugins/StyledTextbox/js</orgPath>
+      <orgName>styledTextController.js</orgName>
+    </file>
+    <file>
+      <guid>EventsBlock.cshtml</guid>
+      <orgPath>/Views/Partials/Components</orgPath>
+      <orgName>EventsBlock.cshtml</orgName>
+    </file>
+    <file>
+      <guid>Highlights.cshtml</guid>
+      <orgPath>/Views/Partials/Components</orgPath>
+      <orgName>Highlights.cshtml</orgName>
+    </file>
+    <file>
+      <guid>LocationMap.cshtml</guid>
+      <orgPath>/Views/Partials/Components</orgPath>
+      <orgName>LocationMap.cshtml</orgName>
+    </file>
+    <file>
+      <guid>NewsBlock.cshtml</guid>
+      <orgPath>/Views/Partials/Components</orgPath>
+      <orgName>NewsBlock.cshtml</orgName>
+    </file>
+    <file>
+      <guid>OpeningTimes.cshtml</guid>
+      <orgPath>/Views/Partials/Components</orgPath>
+      <orgName>OpeningTimes.cshtml</orgName>
+    </file>
+    <file>
+      <guid>ServiceAlerts.cshtml</guid>
+      <orgPath>/Views/Partials/Components</orgPath>
+      <orgName>ServiceAlerts.cshtml</orgName>
+    </file>
+    <file>
+      <guid>AtoZEntries.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>AtoZEntries.cshtml</orgName>
+    </file>
+    <file>
+      <guid>AtoZList.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>AtoZList.cshtml</orgName>
+    </file>
+    <file>
+      <guid>Breadcrumb.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>Breadcrumb.cshtml</orgName>
+    </file>
+    <file>
+      <guid>FooterLinks.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>FooterLinks.cshtml</orgName>
+    </file>
+    <file>
+      <guid>GatewayLinks.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>GatewayLinks.cshtml</orgName>
+    </file>
+    <file>
+      <guid>ListLatestItems.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>ListLatestItems.cshtml</orgName>
+    </file>
+    <file>
+      <guid>PageNav.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>PageNav.cshtml</orgName>
+    </file>
+    <file>
+      <guid>Sitemap.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>Sitemap.cshtml</orgName>
+    </file>
+    <file>
+      <guid>SiteNav.cshtml</guid>
+      <orgPath>/Views/Partials/Nav</orgPath>
+      <orgName>SiteNav.cshtml</orgName>
+    </file>
+    <file>
+      <guid>ContactDetails.cshtml</guid>
+      <orgPath>/Views/Partials/Page</orgPath>
+      <orgName>ContactDetails.cshtml</orgName>
+    </file>
+    <file>
+      <guid>ContactForm.cshtml</guid>
+      <orgPath>/Views/Partials/Page</orgPath>
+      <orgName>ContactForm.cshtml</orgName>
+    </file>
+    <file>
+      <guid>CookieNotice.cshtml</guid>
+      <orgPath>/Views/Partials/Page</orgPath>
+      <orgName>CookieNotice.cshtml</orgName>
+    </file>
+    <file>
+      <guid>DisplayItemDateRange.cshtml</guid>
+      <orgPath>/Views/Partials/Page</orgPath>
+      <orgName>DisplayItemDateRange.cshtml</orgName>
+    </file>
+    <file>
+      <guid>LatestItems.cshtml</guid>
+      <orgPath>/Views/Partials/Page</orgPath>
+      <orgName>LatestItems.cshtml</orgName>
+    </file>
+    <file>
+      <guid>ListContactDetails.cshtml</guid>
+      <orgPath>/Views/Partials/Page</orgPath>
+      <orgName>ListContactDetails.cshtml</orgName>
+    </file>
+    <file>
+      <guid>lgsk-nested-bootstrap.cshtml</guid>
+      <orgPath>/Views/Partials/Grid</orgPath>
+      <orgName>lgsk-nested-bootstrap.cshtml</orgName>
+    </file>
+    <file>
+      <guid>AngularGoogleMaps.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>AngularGoogleMaps.dll</orgName>
+    </file>
+    <file>
+      <guid>Jumoo.OpeningSoon.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Jumoo.OpeningSoon.dll</orgName>
+    </file>
+    <file>
+      <guid>imag0394.jpg</guid>
+      <orgPath>/media/1001</orgPath>
+      <orgName>imag0394.jpg</orgName>
+    </file>
+    <file>
+      <guid>imag0373.jpg</guid>
+      <orgPath>/media/1002</orgPath>
+      <orgName>imag0373.jpg</orgName>
+    </file>
+    <file>
+      <guid>7th-feb-049.jpg</guid>
+      <orgPath>/media/1003</orgPath>
+      <orgName>7th-feb-049.jpg</orgName>
+    </file>
+    <file>
+      <guid>bootstrap.js</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>bootstrap.js</orgName>
+    </file>
+    <file>
+      <guid>bootstrap.min.js</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>bootstrap.min.js</orgName>
+    </file>
+    <file>
+      <guid>jquery-1.12.4.intellisense.js</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>jquery-1.12.4.intellisense.js</orgName>
+    </file>
+    <file>
+      <guid>jquery-1.12.4.js</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>jquery-1.12.4.js</orgName>
+    </file>
+    <file>
+      <guid>jquery-1.12.4.min.js</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>jquery-1.12.4.min.js</orgName>
+    </file>
+    <file>
+      <guid>jquery-1.12.4.min.map</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>jquery-1.12.4.min.map</orgName>
+    </file>
+    <file>
+      <guid>lgsk.googlemaps.js</guid>
+      <orgPath>/Scripts</orgPath>
+      <orgName>lgsk.googlemaps.js</orgName>
+    </file>
+    <file>
+      <guid>glyphicons-halflings-regular.eot</guid>
+      <orgPath>/fonts</orgPath>
+      <orgName>glyphicons-halflings-regular.eot</orgName>
+    </file>
+    <file>
+      <guid>glyphicons-halflings-regular.svg</guid>
+      <orgPath>/fonts</orgPath>
+      <orgName>glyphicons-halflings-regular.svg</orgName>
+    </file>
+    <file>
+      <guid>glyphicons-halflings-regular.ttf</guid>
+      <orgPath>/fonts</orgPath>
+      <orgName>glyphicons-halflings-regular.ttf</orgName>
+    </file>
+    <file>
+      <guid>glyphicons-halflings-regular.woff</guid>
+      <orgPath>/fonts</orgPath>
+      <orgName>glyphicons-halflings-regular.woff</orgName>
+    </file>
+    <file>
+      <guid>glyphicons-halflings-regular.woff2</guid>
+      <orgPath>/fonts</orgPath>
+      <orgName>glyphicons-halflings-regular.woff2</orgName>
+    </file>
+    <file>
+      <guid>example.content</guid>
+      <orgPath>/App_Data/lgsk</orgPath>
+      <orgName>example.content</orgName>
+    </file>
+    <file>
+      <guid>navigation_englishAndWelshServices.xml</guid>
+      <orgPath>/App_Data/lgsk</orgPath>
+      <orgName>navigation_englishAndWelshServices.xml</orgName>
+    </file>
+    <file>
+      <guid>navigation_scottishServices.xml</guid>
+      <orgPath>/App_Data/lgsk</orgPath>
+      <orgName>navigation_scottishServices.xml</orgName>
+    </file>
+    <file>
+      <guid>Jumoo.StarterKit.Installer.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Jumoo.StarterKit.Installer.dll</orgName>
+    </file>
+    <file>
+      <guid>ezSearchBoostrapper.cs</guid>
+      <orgPath>/App_Code</orgPath>
+      <orgName>ezSearchBoostrapper.cs</orgName>
+    </file>
+    <file>
+      <guid>Our.Umbraco.ezSearch.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Our.Umbraco.ezSearch.dll</orgName>
+    </file>
+    <file>
+      <guid>ezSearch.cshtml</guid>
+      <orgPath>/Views/MacroPartials</orgPath>
+      <orgName>ezSearch.cshtml</orgName>
+    </file>
+    <file>
+      <guid>12a93a78-1467-4683-927f-da2c18dcd755_StarterKitInstall.ascx</guid>
+      <orgPath>/App_Plugins/lgsk</orgPath>
+      <orgName>StarterKitInstall.ascx</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>LGStarterKit</name>
+      <version>6.0.4</version>
+      <iconUrl>http://jumoo.uk/img/rocketship.png</iconUrl>
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>http://jumoo.uk/umbraco</url>
+      <requirements type="strict">
+        <major>7</major>
+        <minor>5</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Kevin Jump</name>
+      <website>http://jumoo.uk/</website>
+    </author>
+    <readme><![CDATA[<h4>Localgov Starter Kit 6.0.4
+<small>umbraco v7.4/5+</small>
+</h4>
+<p>
+latest version of the hugely 'popular' localgov starter kit, built for Umbraco 7.4+ giving the start you need to build a stonking service driven website. Featuring: 
+<ul class="inline">
+<li>templates</li>
+<li>doctypes</li>
+<li>datatypes</li>
+<li>maps</li>
+<li>navigation</li>
+<li>search</li>
+<li>the grid!</li>
+<li>nice styles & other things too... </li>
+</ul>
+</p>
+]]></readme>
+  </info>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>AtoZ</Name>
+        <Alias>atoZ</Alias>
+        <Icon>icon-books color-yellow</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>systemPages</Master>
+        <Compositions>
+          <Composition>componentContentFull</Composition>
+          <Composition>systemPages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>AtoZPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>AtoZPage</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Components</Name>
+        <Alias>components</Alias>
+        <Icon>icon-sprout color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Things that form part of another page, they don't appear in any navigation</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>IsComponent</Name>
+          <Alias>isComponent</Alias>
+          <Type>Umbraco.NoEdit</Type>
+          <Definition>8ba2d167-6790-4030-bba7-a76854df2629</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Marks this item as a component (so it isn't shown in navigation or search or atoz)]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>31</Id>
+          <Caption>Info</Caption>
+          <SortOrder>100</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Configuration</Name>
+        <Alias>configuration</Alias>
+        <Icon>icon-wrong color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>isComponent</Name>
+          <Alias>isComponent</Alias>
+          <Type>Umbraco.NoEdit</Type>
+          <Definition>8ba2d167-6790-4030-bba7-a76854df2629</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>39</Id>
+          <Caption>Info</Caption>
+          <SortOrder>100</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Contact Details</Name>
+        <Alias>contactDetails</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Telephone Number</Name>
+          <Alias>telephoneNumber</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>715127b7-e7b4-4e5f-b1ee-d6396a253cb0</Definition>
+          <Tab>Contact</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Email Address</Name>
+          <Alias>emailAddress</Alias>
+          <Type>Umbraco.EmailAddress</Type>
+          <Definition>e54b0940-c881-46ac-81b2-80e313ada2c0</Definition>
+          <Tab>Contact</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Email Address for Contact]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Address</Name>
+          <Alias>address</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>2b0af655-ae16-481c-8ecb-983a2e5c8301</Definition>
+          <Tab>Contact</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>38</Id>
+          <Caption>Contact</Caption>
+          <SortOrder>12</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Contact Link</Name>
+        <Alias>contactLink</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Contact Details</Name>
+          <Alias>contactDetails</Alias>
+          <Type>Umbraco.ContentPickerAlias</Type>
+          <Definition>45a4766f-634b-468e-b0dc-0e6602c05c24</Definition>
+          <Tab>Related</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>25</Id>
+          <Caption>Related</Caption>
+          <SortOrder>20</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Contact Page</Name>
+        <Alias>contactPage</Alias>
+        <Icon>icon-old-phone</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Ways to make contact</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>relatedItems</Composition>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+          <Composition>contactDetails</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>ContactPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>ContactPage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>redirect</DocumentType>
+        <DocumentType>contactPage</DocumentType>
+        <DocumentType>contentPage</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Content - Grid</Name>
+        <Alias>componentContentFull</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Content for a page</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>content</Alias>
+          <Type>Umbraco.Grid</Type>
+          <Definition>7d515341-69e7-4351-8f5e-62bbc7f3c8ba</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Content for the page]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Title</Name>
+          <Alias>title</Alias>
+          <Type>Styled.TextBox</Type>
+          <Definition>54bee7af-cad9-4634-a9aa-04718cdc858b</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Title of the page]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>27</Id>
+          <Caption>Content</Caption>
+          <SortOrder>10</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Content - RTE</Name>
+        <Alias>contentSmall</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Title</Name>
+          <Alias>title</Alias>
+          <Type>Styled.TextBox</Type>
+          <Definition>e365b648-fe68-414a-a1f1-6550eb375c33</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>Umbraco.TinyMCEv3</Type>
+          <Definition>b5961a6f-49db-4042-9f67-381d6e650338</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>30</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Content Page</Name>
+        <Alias>contentPage</Alias>
+        <Icon>icon-document</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A Page of content</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>contactLink</Composition>
+          <Composition>relatedItems</Composition>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>ContentPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>ContentPage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>redirect</DocumentType>
+        <DocumentType>contactPage</DocumentType>
+        <DocumentType>contentPage</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Dated Content</Name>
+        <Alias>datedContent</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Content that has a start or end date</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>End Date</Name>
+          <Alias>endDate</Alias>
+          <Type>Umbraco.DateTime</Type>
+          <Definition>0110fea4-c950-4797-994a-75dbe49fa377</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Date at which it ends]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Start Date</Name>
+          <Alias>startDate</Alias>
+          <Type>Umbraco.DateTime</Type>
+          <Definition>0110fea4-c950-4797-994a-75dbe49fa377</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Date at which it starts]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>41</Id>
+          <Caption>Info</Caption>
+          <SortOrder>20</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Event</Name>
+        <Alias>event</Alias>
+        <Icon>icon-calendar</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A thing that happens at a point in time</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>contactLink</Composition>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+          <Composition>datedContent</Composition>
+          <Composition>leadImage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>DatedItemPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>DatedItemPage</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Gateway Page</Name>
+        <Alias>gatewayPage</Alias>
+        <Icon>icon-item-arrangement color-orange</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Navigation page</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>GatewayPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>GatewayPage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>redirect</DocumentType>
+        <DocumentType>venue</DocumentType>
+        <DocumentType>listingPage</DocumentType>
+        <DocumentType>contactPage</DocumentType>
+        <DocumentType>contentPage</DocumentType>
+        <DocumentType>gatewayPage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Main Item Count</Name>
+          <Alias>mainItemCount</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>9bbe36f3-83b4-4b02-ba43-6041469fbbf9</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Number of items shown in main block (default 6)]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>33</Id>
+          <Caption>Info</Caption>
+          <SortOrder>100</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Global Settings</Name>
+        <Alias>globalSettings</Alias>
+        <Icon>icon-settings-alt color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Settings used across the site</Description>
+        <AllowAtRoot>True</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>configuration</Master>
+        <Compositions>
+          <Composition>configuration</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>settingsFolder</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>fromAddress</Name>
+          <Alias>fromAddress</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Site Settings</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Email address - forms and the like can use when sending emails]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>44</Id>
+          <Caption>Site Settings</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Homepage</Name>
+        <Alias>homepage</Alias>
+        <Icon>icon-home</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Homepage for the site</Description>
+        <AllowAtRoot>True</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>sectionHomepage</Master>
+        <Compositions>
+          <Composition>sectionHomepage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>Homepage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Homepage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>redirect</DocumentType>
+        <DocumentType>globalSettings</DocumentType>
+        <DocumentType>settingsFolder</DocumentType>
+        <DocumentType>venue</DocumentType>
+        <DocumentType>listingPage</DocumentType>
+        <DocumentType>contactPage</DocumentType>
+        <DocumentType>sectionHomepage</DocumentType>
+        <DocumentType>contentPage</DocumentType>
+        <DocumentType>gatewayPage</DocumentType>
+        <DocumentType>atoZ</DocumentType>
+        <DocumentType>search</DocumentType>
+        <DocumentType>sitemap</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Tag Manager Code</Name>
+          <Alias>tagCode</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>62cce04f-2994-48a4-910f-e39d48dbd889</Definition>
+          <Tab>Site</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[ID for Google Tag Manager]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Footer Links</Name>
+          <Alias>footerLinks</Alias>
+          <Type>Umbraco.RelatedLinks</Type>
+          <Definition>08a03e68-ad17-43c3-9a0a-25678d4148d3</Definition>
+          <Tab>Site</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Site Name</Name>
+          <Alias>siteName</Alias>
+          <Type>Styled.TextBox</Type>
+          <Definition>6d237ada-49d2-4286-ac7f-11198f37e0f0</Definition>
+          <Tab>Site</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Name for the site]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>36</Id>
+          <Caption>Site</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Lead Image</Name>
+        <Alias>leadImage</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>image</Name>
+          <Alias>image</Alias>
+          <Type>Umbraco.ImageCropper</Type>
+          <Definition>ee75e16d-c741-44bc-8a72-6d1942499d91</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Lead Image for the page,]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>43</Id>
+          <Caption>Content</Caption>
+          <SortOrder>10</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Listing Page</Name>
+        <Alias>listingPage</Alias>
+        <Icon>icon-thumbnail-list color-orange</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A page for listing things like news, events,</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>True</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>relatedItems</Composition>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+          <Composition>contactDetails</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>ListingPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>ListingPage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>newsItem</DocumentType>
+        <DocumentType>event</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Location Info</Name>
+        <Alias>locationInfo</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Location</Name>
+          <Alias>location</Alias>
+          <Type>AngularGoogleMaps</Type>
+          <Definition>893fee7f-5d90-46a0-a54c-faef94963bf3</Definition>
+          <Tab>Location Info</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>40</Id>
+          <Caption>Location Info</Caption>
+          <SortOrder>12</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>News Item</Name>
+        <Alias>newsItem</Alias>
+        <Icon>icon-newspaper-alt</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A News item or press release</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+          <Composition>datedContent</Composition>
+          <Composition>leadImage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>DatedItemPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>DatedItemPage</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Opening Times</Name>
+        <Alias>openingTimes</Alias>
+        <Icon>icon-alarm-clock color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>When a place is open</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>components</Master>
+        <Compositions>
+          <Composition>components</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Opening Times</Name>
+          <Alias>openingTimes</Alias>
+          <Type>Jumoo.OpeningSoon</Type>
+          <Definition>84227496-897e-4573-a327-faf74a9653fd</Definition>
+          <Tab>Opening Times</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>42</Id>
+          <Caption>Opening Times</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Pages</Name>
+        <Alias>pages</Alias>
+        <Icon>icon-sprout color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>The basis of all pages on the site</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Hide From Navigation</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>feb68326-34e6-41a5-ad1f-70a1c4232f49</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Hides page from Navigation elements]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Summary</Name>
+          <Alias>summary</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>8a1bec16-b52f-418f-a759-82b8428cf2a6</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Displayed on pages that list this page, such as gateway pages]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Service Alerts</Name>
+          <Alias>serviceAlerts</Alias>
+          <Type>Umbraco.MultiNodeTreePicker</Type>
+          <Definition>4c11161c-905f-4b26-9242-a3a202553159</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Select an alert to appear across the top of this page]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>ESD Service Id</Name>
+          <Alias>esdServiceId</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Info</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[ID For this service as defined in ESD Service List]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>28</Id>
+          <Caption>Info</Caption>
+          <SortOrder>15</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Redirect</Name>
+        <Alias>redirect</Alias>
+        <Icon>icon-directions color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A Redirection to another page or site</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>pages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>Redirect</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Redirect</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>External Redirect</Name>
+          <Alias>externalRedirect</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>bb8ea7a5-d811-409f-8d98-04d0a03075fb</Definition>
+          <Tab>Redirect</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Internal Redirect</Name>
+          <Alias>internalRedirect</Alias>
+          <Type>Umbraco.ContentPickerAlias</Type>
+          <Definition>9bdcc16d-df08-4cb2-bff6-bc8f613ad2e9</Definition>
+          <Tab>Redirect</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Title</Name>
+          <Alias>title</Alias>
+          <Type>Styled.TextBox</Type>
+          <Definition>d5cabe16-204f-49ae-bc63-41b71a2304c1</Definition>
+          <Tab>Redirect</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Name for the redirect]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>37</Id>
+          <Caption>Redirect</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Page+Elements">
+      <Info>
+        <Name>Related Items</Name>
+        <Alias>relatedItems</Alias>
+        <Icon>icon-brick color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Things that are related to this page</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Related Items</Name>
+          <Alias>relatedItems</Alias>
+          <Type>Umbraco.RelatedLinks</Type>
+          <Definition>08a03e68-ad17-43c3-9a0a-25678d4148d3</Definition>
+          <Tab>Related</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>26</Id>
+          <Caption>Related</Caption>
+          <SortOrder>20</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Search</Name>
+        <Alias>search</Alias>
+        <Icon>icon-search color-yellow</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Site search</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>systemPages</Master>
+        <Compositions>
+          <Composition>componentContentFull</Composition>
+          <Composition>systemPages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>Search</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Search</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Section Homepage</Name>
+        <Alias>sectionHomepage</Alias>
+        <Icon>icon-split-alt color-orange</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>SectionHomepage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>SectionHomepage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>redirect</DocumentType>
+        <DocumentType>venue</DocumentType>
+        <DocumentType>listingPage</DocumentType>
+        <DocumentType>contactPage</DocumentType>
+        <DocumentType>contentPage</DocumentType>
+        <DocumentType>gatewayPage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Events Root</Name>
+          <Alias>eventsRoot</Alias>
+          <Type>Umbraco.ContentPickerAlias</Type>
+          <Definition>9bdcc16d-df08-4cb2-bff6-bc8f613ad2e9</Definition>
+          <Tab>Section</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Where event pages live on the site.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Section Name</Name>
+          <Alias>sectionName</Alias>
+          <Type>Styled.TextBox</Type>
+          <Definition>a8df0b61-aca8-4219-b827-b683f02ccea6</Definition>
+          <Tab>Section</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Appears in the site navigation]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Section Stylesheet</Name>
+          <Alias>sectionStylesheet</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>a20ae97f-6eb7-4b43-9a92-11c0b5e666d3</Definition>
+          <Tab>Section</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[stylesheets applied to all pages in this section]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Highlights Title</Name>
+          <Alias>highlightsTitle</Alias>
+          <Type>Styled.TextBox</Type>
+          <Definition>fd4296c0-7a53-4fd0-ae4a-881350ab5282</Definition>
+          <Tab>Section</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Title of the highlights box]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>News Root</Name>
+          <Alias>newsRoot</Alias>
+          <Type>Umbraco.ContentPickerAlias</Type>
+          <Definition>9bdcc16d-df08-4cb2-bff6-bc8f613ad2e9</Definition>
+          <Tab>Section</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Where news pages live in the site]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Highlights</Name>
+          <Alias>highlights</Alias>
+          <Type>Umbraco.RelatedLinks</Type>
+          <Definition>08a03e68-ad17-43c3-9a0a-25678d4148d3</Definition>
+          <Tab>Section</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[highlighted pages]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>35</Id>
+          <Caption>Section</Caption>
+          <SortOrder>5</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Service Alert</Name>
+        <Alias>serviceAlert</Alias>
+        <Icon>icon-alert-alt color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>components</Master>
+        <Compositions>
+          <Composition>contentSmall</Composition>
+          <Composition>components</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>serviceAlert</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Alert Type</Name>
+          <Alias>alertType</Alias>
+          <Type>Umbraco.DropDown</Type>
+          <Definition>96326eb9-4b2a-4b00-9d8b-8adc189dac77</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>34</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Settings Folder</Name>
+        <Alias>settingsFolder</Alias>
+        <Icon>icon-folder-outline color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>configuration</Master>
+        <Compositions>
+          <Composition>configuration</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>settingsFolder</DocumentType>
+        <DocumentType>serviceAlert</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Sitemap</Name>
+        <Alias>sitemap</Alias>
+        <Icon>icon-sitemap color-yellow</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A visual representation of the site contents</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>systemPages</Master>
+        <Compositions>
+          <Composition>componentContentFull</Composition>
+          <Composition>systemPages</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>Sitemap</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Sitemap</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>System Pages</Name>
+        <Alias>systemPages</Alias>
+        <Icon>icon-wrong color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Pages used for system things like search</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>pages</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Venue</Name>
+        <Alias>venue</Alias>
+        <Icon>icon-location-nearby</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>A Place or location</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>pages</Master>
+        <Compositions>
+          <Composition>relatedItems</Composition>
+          <Composition>componentContentFull</Composition>
+          <Composition>pages</Composition>
+          <Composition>locationInfo</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>VenuePage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>VenuePage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>redirect</DocumentType>
+        <DocumentType>contactPage</DocumentType>
+        <DocumentType>openingTimes</DocumentType>
+        <DocumentType>contentPage</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>AtoZ Page</Name>
+      <Alias>AtoZPage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SystemPages.cshtml";
+}
+
+@Html.Partial("Nav/AtoZList")
+
+@Html.Partial("Nav/AtoZEntries")]]></Design>
+    </Template>
+    <Template>
+      <Name>Contact Page</Name>
+      <Alias>ContactPage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SideNavPages.cshtml";
+}
+
+
+<h2>@Umbraco.Field("title")</h2>
+@CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+
+
+@Html.Partial("Page/ContactDetails")]]></Design>
+    </Template>
+    <Template>
+      <Name>Content Page</Name>
+      <Alias>ContentPage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SideNavPages.cshtml";
+}
+
+<h2>@Umbraco.Field("title")</h2>
+@CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+]]></Design>
+    </Template>
+    <Template>
+      <Name>DatedItem Page</Name>
+      <Alias>DatedItemPage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SideNavPages.cshtml";
+}
+
+@section FullSideNav {
+
+    @Html.Partial("Nav/ListLatestItems")
+}
+
+<div class="listing-item-title">
+    <h2>@Umbraco.Field("title")</h2>
+    @Html.Partial("Page/DisplayItemDateRange")
+    <img src="@Model.Content.GetCropUrl("image", "Full")">
+</div>
+
+@CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+]]></Design>
+    </Template>
+    <Template>
+      <Name>Design</Name>
+      <Alias>Design</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using ClientDependency.Core.Mvc;
+@{
+    Layout = "Master.cshtml";
+
+    Html.RequiresCss("https://fonts.googleapis.com/css?family=Roboto:400,700|Ubuntu:400,700|Pacifico", 0);
+    Html.RequiresCss("~/css/layout.css", 1);
+
+    Html.RequiresCss("~/css/" + Umbraco.Field("sectionStylesheet", recursive: true, altText: "lgsk-default.css"));
+}
+<header>
+    @Html.Partial("Page/CookieNotice")
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed"
+                        data-toggle="collapse" data-target="#lgsk-navbar-collapse" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="menu-icon-text">menu</span>
+                </button>
+                <a class="navbar-brand" href="/">@Umbraco.Field("siteName", recursive: true)</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="lgsk-navbar-collapse">
+                <form class="navbar-form navbar-right" role="search" method="get" action="/search">
+                    <div class="input-group" >
+                        <label class="sr-only" for="q">Search</label>
+                        <input type="text" class="form-control" placeholder="Search" name="q" id="q"/>
+                        <div class="input-group-btn">
+                            <button type="submit" class="btn btn-default">
+                                <span class="sr-only">Search</span>
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+
+                @Html.Partial("Nav/SiteNav", Model.Content, new ViewDataDictionary() {
+                                                                {  "listClass", "nav navbar-nav navbar-right" }
+                                                            })
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+@if( IsSectionDefined("Breadcrumb"))
+{
+    @RenderSection("Breadcrumb", required: false)
+}
+else
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                @Html.Partial("Nav/Breadcrumb")
+            </div>
+        </div>
+    </div>
+}
+
+@Html.Partial("Components/ServiceAlerts")
+
+@RenderSection("PageHeader", required: false)
+
+<div class="container">
+    <div class="pageContent">
+        @RenderBody()
+    </div>
+</div>
+
+<div class="atoz-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="hidden-xs">
+                    @Html.Partial("Nav/AtoZList")
+                </div>
+                <div class="visible-xs">
+                    <a href="/a-to-z/">A to Z</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+
+    <div class="container">
+        @RenderSection("Footer", required: false)
+
+        <div class="row">
+            <div class="col-sm-6">
+                @Html.Partial("Nav/FooterLinks")
+            </div>
+            <div class="col-sm-6">
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-6">
+                <div class="site-credit">The Localgov Starterkit an open source <span class="jumoo">Jumoo</span> thingy-me-bob</div>
+            </div>
+            <div class="col-xs-6">
+                <div class="site-credit pull-right">
+                    Localgov Starterkit 6, 2015 &raquo; &infin;
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>]]></Design>
+    </Template>
+    <Template>
+      <Name>Gateway Page</Name>
+      <Alias>GatewayPage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Design.cshtml";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h2>@Umbraco.Field("title")</h2>
+        @CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+    </div>
+</div>
+
+@Html.Partial("Nav/GatewayLinks", Model.Content,
+    new ViewDataDictionary()
+    {
+        { "mainCount", Umbraco.Field("mainItemCount", altText: "6") }
+    })
+]]></Design>
+    </Template>
+    <Template>
+      <Name>Homepage</Name>
+      <Alias>Homepage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Sections.cshtml";
+}
+
+@section PageHeader {
+<div class="intro">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-xs-12">
+                <h1>@Umbraco.Field("title")</h1>
+                <div>
+                    @CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+                </div>
+            </div>
+            <div class="col-sm-4 hidden-xs">
+                @Html.Partial("Components/Highlights")
+            </div>
+        </div>
+    </div>
+</div>
+}
+
+<div class="section-links">
+    @Html.Partial("Nav/GatewayLinks", Model.Content,
+    new ViewDataDictionary()
+    {
+        { "mainCount", 25 }
+    })
+
+</div>
+
+<div class="section-features">
+    <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+            @Html.Partial("Components/NewsBlock")
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            @Html.Partial("Components/EventsBlock")
+        </div>
+    </div>
+</div>
+]]></Design>
+    </Template>
+    <Template>
+      <Name>Listing Page</Name>
+      <Alias>ListingPage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SideNavPages.cshtml";
+}
+
+@section FullSideNav {
+    
+    @Html.Partial("Nav/ListLatestItems")
+}
+
+<h2>@Umbraco.Field("title")</h2>
+@CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+
+
+@Html.Partial("Page/LatestItems")]]></Design>
+    </Template>
+    <Template>
+      <Name>Master</Name>
+      <Alias>Master</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using ClientDependency.Core.Mvc
+@{
+    Layout = null;
+
+    Html.RequiresCss("~/content/bootstrap.min.css",0);
+    Html.RequiresJs("~/scripts/jquery-1.12.4.js", 0);
+    Html.RequiresJs("~/scripts/bootstrap.min.js", 1);
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@Umbraco.Field("title") @Umbraco.Field("siteName", recursive: true, insertBefore: " - ")</title>
+
+    @Html.RenderCssHere()
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+   
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=@Umbraco.Field("tagCode", altText: "GTM-THGKJW")"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window, document, 'script', 'dataLayer', '@Umbraco.Field("tagCode", altText: "GTM-THGKJW")');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+
+    @RenderBody()
+
+    @Html.RenderJsHere()
+</body>
+</html>]]></Design>
+    </Template>
+    <Template>
+      <Name>Redirect</Name>
+      <Alias>Redirect</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = null;
+}
+@* simple redirect template, pushes a page to another location *@
+@*
+    use redirects when you want navigation items to appear in 
+    diffrent locations.
+
+    for aliases, and shorter urls, use the umbracoUrlAlias 
+    property on a node - this will serve a page up on 
+    an alias url, without having to create the nodes
+*@
+@{
+
+    if (Model.Content.HasValue("externalRedirect"))
+    {
+        var url = Model.Content.GetPropertyValue<string>("externalRedirect");
+        Response.Redirect(url);
+    }
+    else
+    {
+        var node =
+            Umbraco.TypedContent(Model.Content.GetPropertyValue<int>("internalRedirect", 0));
+
+        if (node != null)
+        {
+            Response.Redirect(node.Url);
+        }
+
+    }
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>Search</Name>
+      <Alias>Search</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SystemPages.cshtml";
+}
+
+<div class="row">
+    <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+        @Umbraco.RenderMacro("ezSearch",
+                     new
+                     {
+                         hideFromSearchField = "umbracoNaviHide",
+                         indexType = "BOTH",
+                         pageSize = "10",
+                         previewFields = "bodyText, content,summary",
+                         previewLength = "175",
+                         rootContentNodeId = "",
+                         rootMediaNodeId = "",
+                         searchFields = "title, bodyText",
+                         searchFormLocation = "NONE"
+                     })
+    </div>
+</div>
+]]></Design>
+    </Template>
+    <Template>
+      <Name>Section Homepage</Name>
+      <Alias>SectionHomepage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Sections.cshtml";
+}
+
+@section PageHeader {
+    <div class="intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-xs-12">
+                    <h1>@Umbraco.Field("title")</h1>
+                    <div>
+                        @CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+                    </div>
+                </div>
+                <div class="col-sm-4 hidden-xs">
+                    @Html.Partial("Components/Highlights")
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="section-links">
+    @Html.Partial("Nav/GatewayLinks")
+</div>
+
+<!--
+<div class="section-features">
+    <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+
+        </div>
+    </div>
+</div>
+-->]]></Design>
+    </Template>
+    <Template>
+      <Name>Sections</Name>
+      <Alias>Sections</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Design.cshtml";
+}
+
+@section Breadcrumb {  } @* section homepages don't have breadcrumbs *@
+
+@section PageHeader { @RenderSection("PageHeader", required: false) }
+
+@RenderBody()]]></Design>
+    </Template>
+    <Template>
+      <Name>SideNav Pages</Name>
+      <Alias>SideNavPages</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Design.cshtml";
+}
+
+<div class="row">
+    <div class="col-sm-8">
+        <div id="bodyContent" class="core-content">
+            @RenderBody()
+        </div>
+    </div>
+
+    <div class="col-sm-4">
+        @if (IsSectionDefined("FullSideNav"))
+        {
+            @RenderSection("FullSideNav", required: false)
+        }
+        else
+        {
+            @Html.Partial("Nav/PageNav")
+
+            @Html.Partial("Page/ListContactDetails")
+
+            @RenderSection("SideNav", required: false)
+        }
+    </div>
+</div>]]></Design>
+    </Template>
+    <Template>
+      <Name>Sitemap</Name>
+      <Alias>Sitemap</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "SystemPages.cshtml";
+}
+@Html.Partial("Nav/Sitemap")]]></Design>
+    </Template>
+    <Template>
+      <Name>System Pages</Name>
+      <Alias>SystemPages</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Design.cshtml";
+}
+
+<h2>@Umbraco.Field("title")</h2>
+@CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			@RenderBody()
+		</div>
+	</div>
+</div>]]></Design>
+    </Template>
+    <Template>
+      <Name>Venue Page</Name>
+      <Alias>VenuePage</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = "Design.cshtml";
+}
+<div class="row">
+    <div class="col-xs-12">
+        <h2>@Umbraco.Field("title")</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        @CurrentPage.GetGridHtml("content", "lgsk-nested-bootstrap")
+
+        @Html.Partial("Components/OpeningTimes")
+    </div>
+    <div class="col-sm-6">
+        @Html.Partial("Components/LocationMap")
+    </div>
+</div>]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets />
+  <Macros>
+    <macro>
+      <name>ezSearch</name>
+      <alias>ezSearch</alias>
+      <scriptType />
+      <scriptAssembly />
+      <scriptingFile>~/Views/MacroPartials/ezSearch.cshtml</scriptingFile>
+      <xslt />
+      <useInEditor>False</useInEditor>
+      <dontRender>False</dontRender>
+      <refreshRate>0</refreshRate>
+      <cacheByMember>False</cacheByMember>
+      <cacheByPage>False</cacheByPage>
+      <properties>
+        <property name="Field that flags whether page should be hidden from results" alias="hideFromSearchField" sortOrder="0" propertyType="Umbraco.Textbox" />
+        <property name="Type of content to search for (CONTENT, MEDIA, BOTH)" alias="indexType" sortOrder="0" propertyType="Umbraco.Textbox" />
+        <property name="Number of results to show per page" alias="pageSize" sortOrder="0" propertyType="Umbraco.Integer" />
+        <property name="Fields to show as the result preview" alias="previewFields" sortOrder="0" propertyType="Umbraco.Textbox" />
+        <property name="Maximum length of the preview text" alias="previewLength" sortOrder="0" propertyType="Umbraco.Integer" />
+        <property name="Root content node to search from" alias="rootContentNodeId" sortOrder="0" propertyType="Umbraco.ContentPickerAlias" />
+        <property name="Root media node to search from" alias="rootMediaNodeId" sortOrder="0" propertyType="Umbraco.MediaPicker" />
+        <property name="Fields to search against" alias="searchFields" sortOrder="0" propertyType="Umbraco.Textbox" />
+        <property name="Location of the search form (TOP, BOTTOM, BOTH, NONE)" alias="searchFormLocation" sortOrder="0" propertyType="Umbraco.Textbox" />
+      </properties>
+    </macro>
+  </Macros>
+  <DictionaryItems>
+    <DictionaryItem Key="ezSearch">
+      <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[]]></Value>
+      <DictionaryItem Key="[ezSearch] Summary">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Your search for <strong>"{0}"</strong> matched <strong>{1}</strong> page(s).]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="[ezSearch] Next">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Next]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="[ezSearch] No Results">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[No results found for search term <strong>{0}</strong>.]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="[ezSearch] Previous">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Previous]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="[ezSearch] Results Range">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Showing results <strong>{0}</strong> to <strong>{1}</strong>.]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="[ezSearch] Search">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Search]]></Value>
+      </DictionaryItem>
+    </DictionaryItem>
+    <DictionaryItem Key="Gateway">
+      <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[]]></Value>
+      <DictionaryItem Key="Gateway.Main">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="Gateway.More">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[More]]></Value>
+      </DictionaryItem>
+    </DictionaryItem>
+    <DictionaryItem Key="Cookie.Notice">
+      <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[This site uses cookies to make things simpler. <a href="/cookies/">Find out more about cookies</a>]]></Value>
+    </DictionaryItem>
+    <DictionaryItem Key="Contact">
+      <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Contact Us]]></Value>
+      <DictionaryItem Key="Contact.From">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[starterkit@jumoo.co.uk]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="Contact.Message">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Contact Message From {{name}}
+
+Name: {{name}}
+Email: {{email}}
+Message: {{message}}
+]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="Contact.Address">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Address]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="Contact.Telephone">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Telephone]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="Contact.Email">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Email]]></Value>
+      </DictionaryItem>
+    </DictionaryItem>
+  </DictionaryItems>
+  <Languages />
+  <DataTypes>
+    <DataType Name="Redirect Title - Text" Id="Styled.TextBox" Definition="d5cabe16-204f-49ae-bc63-41b71a2304c1" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="135" Value="font-family: 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; line-height: 5px; font-size: 24px;" Alias="style" SortOrder="0" />
+        <PreValue Id="136" Value="enter redirect title" Alias="placeholder" SortOrder="1" />
+        <PreValue Id="137" Value="0" Alias="charCount" SortOrder="2" />
+        <PreValue Id="138" Value="0" Alias="enforceLimit" SortOrder="3" />
+        <PreValue Id="139" Value="0" Alias="hideLabel" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Page Title - Text" Id="Styled.TextBox" Definition="e365b648-fe68-414a-a1f1-6550eb375c33" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="81" Value="font-family: 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; line-height: 45px; font-weight: bold;" Alias="style" SortOrder="0" />
+        <PreValue Id="82" Value="Enter the title for this page" Alias="placeholder" SortOrder="1" />
+        <PreValue Id="83" Value="30" Alias="charCount" SortOrder="2" />
+        <PreValue Id="84" Value="0" Alias="enforceLimit" SortOrder="3" />
+        <PreValue Id="85" Value="0" Alias="hideLabel" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Content - Rich Text" Id="Umbraco.TinyMCEv3" Definition="b5961a6f-49db-4042-9f67-381d6e650338" DatabaseType="Ntext" Folders="Content">
+      <PreValues>
+        <PreValue Id="79" Value="{&#xD;&#xA;  &quot;toolbar&quot;: [&#xD;&#xA;    &quot;code&quot;,&#xD;&#xA;    &quot;styleselect&quot;,&#xD;&#xA;    &quot;bold&quot;,&#xD;&#xA;    &quot;italic&quot;,&#xD;&#xA;    &quot;alignleft&quot;,&#xD;&#xA;    &quot;aligncenter&quot;,&#xD;&#xA;    &quot;alignright&quot;,&#xD;&#xA;    &quot;bullist&quot;,&#xD;&#xA;    &quot;numlist&quot;,&#xD;&#xA;    &quot;outdent&quot;,&#xD;&#xA;    &quot;indent&quot;,&#xD;&#xA;    &quot;link&quot;,&#xD;&#xA;    &quot;unlink&quot;,&#xD;&#xA;    &quot;umbmediapicker&quot;,&#xD;&#xA;    &quot;umbmacro&quot;,&#xD;&#xA;    &quot;umbembeddialog&quot;&#xD;&#xA;  ],&#xD;&#xA;  &quot;stylesheets&quot;: [&#xD;&#xA;    &quot;editor&quot;,&#xD;&#xA;    &quot;layout&quot;&#xD;&#xA;  ],&#xD;&#xA;  &quot;dimensions&quot;: {&#xD;&#xA;    &quot;height&quot;: 500&#xD;&#xA;  },&#xD;&#xA;  &quot;maxImageSize&quot;: 500&#xD;&#xA;}" Alias="editor" SortOrder="0" />
+        <PreValue Id="80" Value="" Alias="hideLabel" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Hide From Navigation - Bool" Id="Umbraco.TrueFalse" Definition="feb68326-34e6-41a5-ad1f-70a1c4232f49" DatabaseType="Integer" Folders="Configuration">
+      <PreValues>
+        <PreValue Id="151" Value="" Alias="default" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Pages - Summary - Text" Id="Umbraco.TextboxMultiple" Definition="8a1bec16-b52f-418f-a759-82b8428cf2a6" DatabaseType="Ntext" Folders="Content">
+      <PreValues />
+    </DataType>
+    <DataType Name="isComponent - Label" Id="Umbraco.NoEdit" Definition="8ba2d167-6790-4030-bba7-a76854df2629" DatabaseType="Nvarchar" Folders="Configuration">
+      <PreValues>
+        <PreValue Id="152" Value="[&#xD;&#xA;  {&#xD;&#xA;    &quot;Key&quot;: &quot;values&quot;,&#xD;&#xA;    &quot;Value&quot;: null&#xD;&#xA;  }&#xD;&#xA;]" Alias="values" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Related Items - links" Id="Umbraco.RelatedLinks" Definition="08a03e68-ad17-43c3-9a0a-25678d4148d3" DatabaseType="Ntext" Folders="Pickers">
+      <PreValues>
+        <PreValue Id="134" Value="" Alias="max" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Gateway Page - Main Item Count - Number" Id="Umbraco.Integer" Definition="9bbe36f3-83b4-4b02-ba43-6041469fbbf9" DatabaseType="Integer" Folders="Configuration">
+      <PreValues>
+        <PreValue Id="10" Value="" Alias="min" SortOrder="0" />
+        <PreValue Id="11" Value="" Alias="step" SortOrder="1" />
+        <PreValue Id="12" Value="" Alias="max" SortOrder="2" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Section Name - Text" Id="Styled.TextBox" Definition="a8df0b61-aca8-4219-b827-b683f02ccea6" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="63" Value="font-size: 36px; line-height: 45px; font-weight: bold" Alias="style" SortOrder="0" />
+        <PreValue Id="64" Value="Enter the section name" Alias="placeholder" SortOrder="1" />
+        <PreValue Id="65" Value="20" Alias="charCount" SortOrder="2" />
+        <PreValue Id="66" Value="0" Alias="enforceLimit" SortOrder="3" />
+        <PreValue Id="67" Value="0" Alias="hideLabel" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Highlights Title - Text" Id="Styled.TextBox" Definition="fd4296c0-7a53-4fd0-ae4a-881350ab5282" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="58" Value="font-size: 26px; line-height: 45px; font-weight: bold" Alias="style" SortOrder="0" />
+        <PreValue Id="59" Value="Name of highlights box" Alias="placeholder" SortOrder="1" />
+        <PreValue Id="60" Value="35" Alias="charCount" SortOrder="2" />
+        <PreValue Id="61" Value="0" Alias="enforceLimit" SortOrder="3" />
+        <PreValue Id="62" Value="0" Alias="hideLabel" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Stylesheet - Text" Id="Umbraco.Textbox" Definition="a20ae97f-6eb7-4b43-9a92-11c0b5e666d3" DatabaseType="Nvarchar" Folders="Configuration">
+      <PreValues />
+    </DataType>
+    <DataType Name="Site Name - Text" Id="Styled.TextBox" Definition="6d237ada-49d2-4286-ac7f-11198f37e0f0" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="38" Value="font-size: 36px; line-height: 45px; font-weight: bold" Alias="style" SortOrder="0" />
+        <PreValue Id="39" Value="Enter the name for the site" Alias="placeholder" SortOrder="1" />
+        <PreValue Id="40" Value="45" Alias="charCount" SortOrder="2" />
+        <PreValue Id="41" Value="0" Alias="enforceLimit" SortOrder="3" />
+        <PreValue Id="42" Value="0" Alias="hideLabel" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Analytics Code - Textbox" Id="Umbraco.Textbox" Definition="62cce04f-2994-48a4-910f-e39d48dbd889" DatabaseType="Nvarchar" Folders="Configuration">
+      <PreValues />
+    </DataType>
+    <DataType Name="Service Alert - Alert Type - list" Id="Umbraco.DropDown" Definition="96326eb9-4b2a-4b00-9d8b-8adc189dac77" DatabaseType="Nvarchar" Folders="Pickers">
+      <PreValues>
+        <PreValue Id="13" Value="info" Alias="0" SortOrder="0" />
+        <PreValue Id="14" Value="warning" Alias="1" SortOrder="1" />
+        <PreValue Id="15" Value="danger" Alias="2" SortOrder="2" />
+        <PreValue Id="202" Value="success" Alias="3" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Pages - Service Alerts - Picker" Id="Umbraco.MultiNodeTreePicker" Definition="4c11161c-905f-4b26-9242-a3a202553159" DatabaseType="Nvarchar" Folders="Pickers">
+      <PreValues>
+        <PreValue Id="16" Value="{&#xD;&#xA;  &quot;type&quot;: &quot;content&quot;&#xD;&#xA;}" Alias="startNode" SortOrder="0" />
+        <PreValue Id="17" Value="ServiceAlert" Alias="filter" SortOrder="1" />
+        <PreValue Id="18" Value="" Alias="minNumber" SortOrder="2" />
+        <PreValue Id="19" Value="" Alias="maxNumber" SortOrder="3" />
+        <PreValue Id="20" Value="0" Alias="showOpenButton" SortOrder="4" />
+        <PreValue Id="21" Value="0" Alias="showEditButton" SortOrder="5" />
+        <PreValue Id="22" Value="0" Alias="showPathOnHover" SortOrder="6" />
+      </PreValues>
+    </DataType>
+    <DataType Name="URL - Text" Id="Umbraco.Textbox" Definition="bb8ea7a5-d811-409f-8d98-04d0a03075fb" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues />
+    </DataType>
+    <DataType Name="Site Page - Picker" Id="Umbraco.ContentPickerAlias" Definition="9bdcc16d-df08-4cb2-bff6-bc8f613ad2e9" DatabaseType="Integer" Folders="Pickers">
+      <PreValues>
+        <PreValue Id="147" Value="0" Alias="showOpenButton" SortOrder="0" />
+        <PreValue Id="148" Value="0" Alias="showEditButton" SortOrder="1" />
+        <PreValue Id="149" Value="-1" Alias="startNodeId" SortOrder="2" />
+        <PreValue Id="150" Value="0" Alias="showPathOnHover" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Email Address - Email" Id="Umbraco.EmailAddress" Definition="e54b0940-c881-46ac-81b2-80e313ada2c0" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="129" Value="" Alias="IsRequired" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Location - Map" Id="AngularGoogleMaps" Definition="893fee7f-5d90-46a0-a54c-faef94963bf3" DatabaseType="Ntext" Folders="Pickers">
+      <PreValues>
+        <PreValue Id="140" Value="53.397250978134586,-2.9546416201171724,11" Alias="defaultLocation" SortOrder="0" />
+        <PreValue Id="141" Value="400" Alias="height" SortOrder="1" />
+        <PreValue Id="142" Value="" Alias="hideSearch" SortOrder="2" />
+        <PreValue Id="143" Value="" Alias="hideLabel" SortOrder="3" />
+        <PreValue Id="144" Value="2" Alias="coordinatesBehavour" SortOrder="4" />
+        <PreValue Id="145" Value="{&#xD;&#xA;  &quot;image&quot;: &quot;https://mt.google.com/vt/icon/name=icons/spotlight/spotlight-poi.png&quot;,&#xD;&#xA;  &quot;name&quot;: &quot;Red Marker&quot;,&#xD;&#xA;  &quot;shadowImage&quot;: &quot;&quot;,&#xD;&#xA;  &quot;size&quot;: {&#xD;&#xA;    &quot;width&quot;: 22,&#xD;&#xA;    &quot;height&quot;: 40&#xD;&#xA;  },&#xD;&#xA;  &quot;anchor&quot;: {&#xD;&#xA;    &quot;horizontal&quot;: &quot;center&quot;,&#xD;&#xA;    &quot;vertical&quot;: &quot;bottom&quot;&#xD;&#xA;  }&#xD;&#xA;}" Alias="icon" SortOrder="5" />
+        <PreValue Id="146" Value="0" Alias="format" SortOrder="6" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Event Date - DateTime" Id="Umbraco.DateTime" Definition="0110fea4-c950-4797-994a-75dbe49fa377" DatabaseType="Date" Folders="Content">
+      <PreValues>
+        <PreValue Id="184" Value="YYYY-MM-DD HH:mm:ss" Alias="format" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Contact Details - Picker" Id="Umbraco.ContentPickerAlias" Definition="45a4766f-634b-468e-b0dc-0e6602c05c24" DatabaseType="Integer" Folders="Pickers">
+      <PreValues>
+        <PreValue Id="130" Value="0" Alias="showOpenButton" SortOrder="0" />
+        <PreValue Id="131" Value="1" Alias="showEditButton" SortOrder="1" />
+        <PreValue Id="132" Value="-1" Alias="startNodeId" SortOrder="2" />
+        <PreValue Id="133" Value="0" Alias="showPathOnHover" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Telephone Number - Text" Id="Umbraco.Textbox" Definition="715127b7-e7b4-4e5f-b1ee-d6396a253cb0" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues />
+    </DataType>
+    <DataType Name="Address - Text" Id="Umbraco.TextboxMultiple" Definition="2b0af655-ae16-481c-8ecb-983a2e5c8301" DatabaseType="Ntext" Folders="Content">
+      <PreValues />
+    </DataType>
+    <DataType Name="Content - Grid" Id="Umbraco.Grid" Definition="7d515341-69e7-4351-8f5e-62bbc7f3c8ba" DatabaseType="Ntext" Folders="Content">
+      <PreValues>
+        <PreValue Id="209" Value="{&#xD;&#xA;  &quot;styles&quot;: [&#xD;&#xA;    {&#xD;&#xA;      &quot;label&quot;: &quot;Set a background image&quot;,&#xD;&#xA;      &quot;description&quot;: &quot;Set a row background&quot;,&#xD;&#xA;      &quot;key&quot;: &quot;background-image&quot;,&#xD;&#xA;      &quot;view&quot;: &quot;imagepicker&quot;,&#xD;&#xA;      &quot;modifier&quot;: &quot;url({0})&quot;&#xD;&#xA;    }&#xD;&#xA;  ],&#xD;&#xA;  &quot;config&quot;: [&#xD;&#xA;    {&#xD;&#xA;      &quot;label&quot;: &quot;Class&quot;,&#xD;&#xA;      &quot;description&quot;: &quot;Set a css class&quot;,&#xD;&#xA;      &quot;key&quot;: &quot;class&quot;,&#xD;&#xA;      &quot;view&quot;: &quot;textstring&quot;&#xD;&#xA;    }&#xD;&#xA;  ],&#xD;&#xA;  &quot;columns&quot;: 12,&#xD;&#xA;  &quot;templates&quot;: [&#xD;&#xA;    {&#xD;&#xA;      &quot;name&quot;: &quot;1 column layout&quot;,&#xD;&#xA;      &quot;sections&quot;: [&#xD;&#xA;        {&#xD;&#xA;          &quot;grid&quot;: 12&#xD;&#xA;        }&#xD;&#xA;      ]&#xD;&#xA;    }&#xD;&#xA;  ],&#xD;&#xA;  &quot;layouts&quot;: [&#xD;&#xA;    {&#xD;&#xA;      &quot;name&quot;: &quot;Full Width&quot;,&#xD;&#xA;      &quot;areas&quot;: [&#xD;&#xA;        {&#xD;&#xA;          &quot;grid&quot;: 12,&#xD;&#xA;          &quot;allowAll&quot;: false,&#xD;&#xA;          &quot;allowed&quot;: [&#xD;&#xA;            &quot;rte&quot;,&#xD;&#xA;            &quot;media&quot;,&#xD;&#xA;            &quot;macro&quot;,&#xD;&#xA;            &quot;embed&quot;&#xD;&#xA;          ]&#xD;&#xA;        }&#xD;&#xA;      ]&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &quot;name&quot;: &quot;Two Coloumn&quot;,&#xD;&#xA;      &quot;areas&quot;: [&#xD;&#xA;        {&#xD;&#xA;          &quot;grid&quot;: 6,&#xD;&#xA;          &quot;allowAll&quot;: false,&#xD;&#xA;          &quot;allowed&quot;: [&#xD;&#xA;            &quot;rte&quot;,&#xD;&#xA;            &quot;media&quot;,&#xD;&#xA;            &quot;macro&quot;,&#xD;&#xA;            &quot;embed&quot;&#xD;&#xA;          ]&#xD;&#xA;        },&#xD;&#xA;        {&#xD;&#xA;          &quot;grid&quot;: 6,&#xD;&#xA;          &quot;allowAll&quot;: false,&#xD;&#xA;          &quot;allowed&quot;: [&#xD;&#xA;            &quot;rte&quot;,&#xD;&#xA;            &quot;media&quot;,&#xD;&#xA;            &quot;macro&quot;,&#xD;&#xA;            &quot;embed&quot;&#xD;&#xA;          ]&#xD;&#xA;        }&#xD;&#xA;      ]&#xD;&#xA;    }&#xD;&#xA;  ]&#xD;&#xA;}" Alias="items" SortOrder="0" />
+        <PreValue Id="210" Value="{&#xD;&#xA;  &quot;toolbar&quot;: [&#xD;&#xA;    &quot;code&quot;,&#xD;&#xA;    &quot;styleselect&quot;,&#xD;&#xA;    &quot;bold&quot;,&#xD;&#xA;    &quot;italic&quot;,&#xD;&#xA;    &quot;alignleft&quot;,&#xD;&#xA;    &quot;aligncenter&quot;,&#xD;&#xA;    &quot;alignright&quot;,&#xD;&#xA;    &quot;bullist&quot;,&#xD;&#xA;    &quot;numlist&quot;,&#xD;&#xA;    &quot;outdent&quot;,&#xD;&#xA;    &quot;indent&quot;,&#xD;&#xA;    &quot;link&quot;,&#xD;&#xA;    &quot;umbmediapicker&quot;,&#xD;&#xA;    &quot;umbmacro&quot;,&#xD;&#xA;    &quot;umbembeddialog&quot;&#xD;&#xA;  ],&#xD;&#xA;  &quot;stylesheets&quot;: [&#xD;&#xA;    &quot;editor&quot;,&#xD;&#xA;    &quot;layout&quot;&#xD;&#xA;  ],&#xD;&#xA;  &quot;dimensions&quot;: {&#xD;&#xA;    &quot;height&quot;: 500,&#xD;&#xA;    &quot;width&quot;: 750&#xD;&#xA;  },&#xD;&#xA;  &quot;maxImageSize&quot;: 500&#xD;&#xA;}" Alias="rte" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Opening Times - Time Series" Id="Jumoo.OpeningSoon" Definition="84227496-897e-4573-a327-faf74a9653fd" DatabaseType="Ntext" Folders="Content">
+      <PreValues>
+        <PreValue Id="185" Value="0" Alias="SecondSet" SortOrder="0" />
+        <PreValue Id="186" Value="30" Alias="dropdownTimestep" SortOrder="1" />
+        <PreValue Id="187" Value="1" Alias="enableClear" SortOrder="2" />
+        <PreValue Id="188" Value="1" Alias="enableAutofill" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="List View - listingPage" Id="Umbraco.ListView" Definition="d700b6be-2aa1-4ddd-bab5-41b4475f4b8c" DatabaseType="Nvarchar" Folders="List+Views">
+      <PreValues>
+        <PreValue Id="189" Value="1" Alias="displayAtTabNumber" SortOrder="0" />
+        <PreValue Id="190" Value="10" Alias="pageSize" SortOrder="1" />
+        <PreValue Id="191" Value="VersionDate" Alias="orderBy" SortOrder="2" />
+        <PreValue Id="192" Value="desc" Alias="orderDirection" SortOrder="3" />
+        <PreValue Id="193" Value="[&#xD;&#xA;  {&#xD;&#xA;    &quot;name&quot;: &quot;List&quot;,&#xD;&#xA;    &quot;path&quot;: &quot;views/propertyeditors/listview/layouts/list/list.html&quot;,&#xD;&#xA;    &quot;icon&quot;: &quot;icon-list&quot;,&#xD;&#xA;    &quot;isSystem&quot;: 1,&#xD;&#xA;    &quot;selected&quot;: true&#xD;&#xA;  },&#xD;&#xA;  {&#xD;&#xA;    &quot;name&quot;: &quot;Grid&quot;,&#xD;&#xA;    &quot;path&quot;: &quot;views/propertyeditors/listview/layouts/grid/grid.html&quot;,&#xD;&#xA;    &quot;icon&quot;: &quot;icon-thumbnails-small&quot;,&#xD;&#xA;    &quot;isSystem&quot;: 1,&#xD;&#xA;    &quot;selected&quot;: true&#xD;&#xA;  }&#xD;&#xA;]" Alias="layouts" SortOrder="4" />
+        <PreValue Id="194" Value="[&#xD;&#xA;  {&#xD;&#xA;    &quot;alias&quot;: &quot;sortOrder&quot;,&#xD;&#xA;    &quot;header&quot;: &quot;Sort order&quot;,&#xD;&#xA;    &quot;isSystem&quot;: 1&#xD;&#xA;  },&#xD;&#xA;  {&#xD;&#xA;    &quot;alias&quot;: &quot;updateDate&quot;,&#xD;&#xA;    &quot;header&quot;: &quot;Last edited&quot;,&#xD;&#xA;    &quot;isSystem&quot;: 1&#xD;&#xA;  },&#xD;&#xA;  {&#xD;&#xA;    &quot;alias&quot;: &quot;owner&quot;,&#xD;&#xA;    &quot;header&quot;: &quot;Created by&quot;,&#xD;&#xA;    &quot;isSystem&quot;: 1&#xD;&#xA;  },&#xD;&#xA;  {&#xD;&#xA;    &quot;alias&quot;: &quot;endDate&quot;,&#xD;&#xA;    &quot;isSystem&quot;: 0,&#xD;&#xA;    &quot;header&quot;: &quot;End Date&quot;&#xD;&#xA;  }&#xD;&#xA;]" Alias="includeProperties" SortOrder="5" />
+        <PreValue Id="195" Value="{&#xD;&#xA;  &quot;allowBulkPublish&quot;: true,&#xD;&#xA;  &quot;allowBulkUnpublish&quot;: true,&#xD;&#xA;  &quot;allowBulkCopy&quot;: true,&#xD;&#xA;  &quot;allowBulkMove&quot;: true,&#xD;&#xA;  &quot;allowBulkDelete&quot;: true&#xD;&#xA;}" Alias="bulkActionPermissions" SortOrder="6" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Page Title (Full Width) - Text" Id="Styled.TextBox" Definition="54bee7af-cad9-4634-a9aa-04718cdc858b" DatabaseType="Nvarchar" Folders="Content">
+      <PreValues>
+        <PreValue Id="179" Value="font-size: 36px; line-height: 45px; font-weight: bold" Alias="style" SortOrder="0" />
+        <PreValue Id="180" Value="" Alias="placeholder" SortOrder="1" />
+        <PreValue Id="181" Value="0" Alias="charCount" SortOrder="2" />
+        <PreValue Id="182" Value="0" Alias="enforceLimit" SortOrder="3" />
+        <PreValue Id="183" Value="1" Alias="hideLabel" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Lead Image - image - Image Cropper" Id="Umbraco.ImageCropper" Definition="ee75e16d-c741-44bc-8a72-6d1942499d91" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="201" Value="[&#xD;&#xA;  {&#xD;&#xA;    &quot;alias&quot;: &quot;Homepage&quot;,&#xD;&#xA;    &quot;width&quot;: 360,&#xD;&#xA;    &quot;height&quot;: 150&#xD;&#xA;  },&#xD;&#xA;  {&#xD;&#xA;    &quot;alias&quot;: &quot;Full&quot;,&#xD;&#xA;    &quot;width&quot;: 750,&#xD;&#xA;    &quot;height&quot;: 300&#xD;&#xA;  }&#xD;&#xA;]" Alias="crops" SortOrder="0" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+  <control>/App_Plugins/lgsk/StarterKitInstall.ascx</control>
+  <Actions>
+    <Action runat="install" alias="addDashboardSection" dashboardAlias="lgNav">
+      <section>
+        <areas>
+          <area>developer</area>
+        </areas>
+        <tab caption="LG StarterKit">
+          <control>~/app_plugins/lgsk/StarterKitInstall.ascx</control>
+        </tab>
+      </section>
+    </Action>
+  </Actions>
+</umbPackage>

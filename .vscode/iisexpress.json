@@ -1,0 +1,6 @@
+{
+  "port": 1181,
+  "path": "c:\\Proj\\umbraco",
+  "clr": "v4.0",
+  "protocol": "http"
+}
